@@ -1,9 +1,15 @@
- Hey 👋, I'm S Muneera!<br>
-<a href='https://linkedin.com/in/https://www.linkedin.com/in/s-muneera/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'>
-<a src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svgI am a versatilist and easily adapt to different hats (Full Stack Web Developer " height='18px'/></a><br>
+<h2> Hey 👋, I'm S Muneera!<br></h2>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/s-muneera/" target="_blank" marginTop="20px">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
+ </a> 
+  <a href="https://github.com/smuneera253" target="_blank">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
+</a>
 
-I'm Full stact web developer
+
+</a>
+
+I'm Full stack web developer
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -12,7 +18,8 @@ I'm Full stact web developer
 
 - 🌱 &nbsp;I’m currently learning **Full Stack Development**<br>
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/smuneera253)<br>
-- 📫 &nbsp; Feel free to ping me on [LinkedIn]('https://linkedin.com/in/https://www.linkedin.com/in/s-muneera/)<br>
+- 📫 &nbsp;  📫 How to reach me: smuneera253@gmail.com <br>
+- 📫 My Resume: (https://docs.google.com/document/d/1Jn3pTZjLxDrewgBBW2w_tYWxJw6i3-ZRHt2gXnKmqWk/edit?usp=sharing)
 
 
 <br>
