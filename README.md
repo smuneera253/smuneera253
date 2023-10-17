@@ -19,7 +19,7 @@ I'm Full stack web developer
 - 🌱 &nbsp;I’m currently learning **Full Stack Development**<br>
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/smuneera253)<br>
 - 📫 &nbsp;  📫 How to reach me: smuneera253@gmail.com <br>
-- 📫 My Resume: (https://docs.google.com/document/d/1Jn3pTZjLxDrewgBBW2w_tYWxJw6i3-ZRHt2gXnKmqWk/edit?usp=sharing)
+- 📫 My Resume: (https://docs.google.com/document/d/1MJJrET4IcNK36XxHJmj-YiCsueEan7IDblJJCghcgNc/edit?usp=sharing)
 
 
 <br>
